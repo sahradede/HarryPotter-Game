@@ -1,0 +1,7 @@
+Karakter: Hermione Granger
+Sağlık: 100
+Büyücülük: 100
+Savunma: 90
+Zeka: 130
+Ev: Hufflepuff
+Kaydedildiği Tarih: 25-12-2024, 14:48:25

@@ -1,0 +1,7 @@
+Karakter: Hermione Granger
+Sağlık: 100
+Büyücülük: 110
+Savunma: 130
+Zeka: 140
+Ev: Slytherin
+Kaydedildiği Tarih: 25-12-2024, 20:17:34
