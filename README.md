@@ -1,4 +1,10 @@
 # Hogwarts Adventure Game
+This game is a project I designed to learn the principles of oop in detail.
+## Future Enhancements
+
+- Implement a graphical user interface (GUI).
+-Voldemort War should be completely edited
+-The game will be fully translated into English
 
 ## Overview
 Hogwarts Adventure Game is a text-based RPG where players embark on a magical journey at Hogwarts School of Witchcraft and Wizardry. Players select a character, join a Hogwarts house, and navigate through various challenges while enhancing their skills and preparing for an ultimate test on the fifth day.
@@ -114,9 +120,5 @@ Hogwarts Adventure Game is a text-based RPG where players embark on a magical jo
 
 ---
 
-## Future Enhancements
 
-- Implement a graphical user interface (GUI).
--Voldemort War should be completely edited
--The game will be fully translated into English
 
